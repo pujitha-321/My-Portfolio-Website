@@ -46,7 +46,7 @@ header h1{
 }
 img{
    height: 300px;
-    width:250px;
+   width : 250px;
    border:black 1px solid;
     border-radius:10px;
 
